@@ -10,6 +10,5 @@ docker compose up -d
 docker compose exec app ./vendor/bin/phpunit
 ```
 
----
-    This project is ready to run tests with PHPUnit test explorer extension: https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit
----
+*This project is ready to run tests with PHPUnit test explorer extension: <https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit>*
+
