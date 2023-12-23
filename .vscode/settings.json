@@ -1,0 +1,10 @@
+{
+    "phpunit.command": "docker compose exec app /bin/sh -c",
+    "phpunit.args": [
+        "-c",
+        "phpunit.xml"
+    ],
+    "phpunit.paths": {
+        "${workspaceFolder}": "/var/www",
+    },
+}
